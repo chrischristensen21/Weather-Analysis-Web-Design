@@ -31,5 +31,6 @@ The website consists of 7 total pages:
 
 ![Data Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Data%20Page.png)
 
+#### Note
 The user can either navigate through the navigation bar or click on any of the plot images, which will also direct them to the corresponding page containing the information of that plot.
 
