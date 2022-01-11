@@ -21,7 +21,7 @@ The website consists of 7 total pages:
 
 * A comparisons page that allows you to  view all of the plots side by side for easy comparison
 
-![Comparisons Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Comparisons%20Page.png)
+![Comparisons Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Comparison%20Page.png)
 
 * A Data Page containing a table with all the data used for the analyses.
 
