@@ -35,9 +35,8 @@ The website consists of 7 total pages:
 The user can either navigate through the navigation bar or click on any of the plot images, which will also direct them to the corresponding page containing the information of that plot.
 
 ---
-**Contact:**
 
-**Chris Christensen**
+####Chris Christensen
 
-**Email: chrischristensen21@gmail.com**
+**Email:** chrischristensen21@gmail.com
 
