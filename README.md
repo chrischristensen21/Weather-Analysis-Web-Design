@@ -13,10 +13,13 @@ The website consists of 7 total pages:
 ![Landing Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Landing%20Page.png)
 
 **Four Visualization Pages** containing plots of various weather-related phenomenon with a short description of any obvious findings or trends.
-
+**Max Temperature Page**
 ![Max Temp Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Max%20Temp%20Visualization%20Page.png)
+**Humidity Page**
 ![Humidity Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Humidity%20Visualization%20Page.png)
+**Wind Speed Page**
 ![Wind Speed Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Wind%20Speed%20Page.png)
+**Cloudiness Page**
 ![Cloudiness Page](https://github.com/chrischristensen21/Weather-Analysis-Web-Design/blob/main/Images/Cloudiness%20Visualization%20Page.png)
 
 **A Comparisons Page** that allows you to  view all of the plots side by side for easy comparison
