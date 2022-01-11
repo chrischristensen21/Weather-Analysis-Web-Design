@@ -36,7 +36,7 @@ The user can either navigate through the navigation bar or click on any of the p
 
 ---
 
-####Chris Christensen
+#### Chris Christensen
 
 **Email:** chrischristensen21@gmail.com
 
